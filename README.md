@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amal </h1>
 <h3 align="center">A passionate Full Stack developer from Tunisia </h3>
 <img align="right" alt ="astronaut" width="400" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" >
+<p> </p>
+<p>  I have a background in Pysics and astrophysics :milky_way: and I love being creative . I've always been a person that if I didn't know how to make something :mag_right: I'd find out how to do it, so programming has been a perfect fit for me. I love movies, books and I'm a huge fan of sports. I love the psychology of athletes and the culture of athletics.
+</p>
 
 - 🌱 I’m currently learning **Vue.js and Angular.**
 
