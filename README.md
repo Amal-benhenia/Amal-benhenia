@@ -1,8 +1,8 @@
 <h3 align="left">Hi 👋, I'm Amal </h3>
 <h5 align="left">A passionate Full Stack developer from Tunisia </h5>
-<img align="right" alt ="astronaut" width="400" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" >
-<br></br<
-<p align="left">I have a background in Pysics and astrophysics :milky_way: and I love being creative . I've always been a person that if I didn't know how to make something :mag_right: I'd find out how to do it, so programming has been a perfect fit for me. I love movies, books and I'm a huge fan of sports. I love the psychology of athletes and the culture of athletics.
+<img align="right" alt ="astronaut" width="300" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" >
+<p align="left">I have a background in Pysics and astrophysics :milky_way: and I love being creative.
+I've always been a person that if I didn't know how to make something :mag_right: I'd find out how to do it, so programming has been a perfect fit for me. I love movies :movie_camera:, books :books: and I'm a huge fan of sports :soccer:. I love the psychology of athletes and the culture of athletics :muscle:
 </p>
 
 - 🌱 I’m currently learning **Vue.js and Angular.**
@@ -14,7 +14,6 @@
 <a href="https://twitter.com/amal ben henia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amal ben henia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amal ben henia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal ben henia" height="30" width="40" /></a>
 <a href="https://fb.com/amal ben henia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amal ben henia" height="30" width="40" /></a>
-<a href="https://hashnode.com/💬 ask me about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="💬 ask me about" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
