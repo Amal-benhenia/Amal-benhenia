@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, my name is Amal </h3> <img align="right" src="https://media.tenor.com/ch3vWUSkaiEAAAAM/eminem-hey.gif">
+<h3 align="left">Hi 👋, my name is Amal </h3> <img align="right" margin-top="0" src="https://media.tenor.com/ch3vWUSkaiEAAAAM/eminem-hey.gif">
 <h5 align="left">A passionate Full Stack developer from Tunisia </h5>
 <img align="right" margin-meft="10px" alt ="astronaut" width="400" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" >
 <p align="left">I have a background in Physics and astrophysics :milky_way: and I love being creative.
