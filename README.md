@@ -5,8 +5,6 @@
 I've always been a person that if I didn't know how to make something :mag_right: I'd find out how to do it, so programming has been a perfect fit for me. I love movies :movie_camera:, books :books: and I'm a huge fan of sports :soccer:. I love the psychology of athletes and the culture of athletics :muscle:
 </p>
 
-- 🌱 I’m currently learning **Vue.js and Angular.**
-
 - 📫 How to reach me **ambenhenia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
