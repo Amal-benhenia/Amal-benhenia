@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋, my name is Amal </h3>
 <h5 align="left">A passionate Full Stack developer from Tunisia </h5>
-<img align="right" margin-meft="10px" alt ="astronaut" width="400" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" >
+<img align="right" margin-meft="10px" alt ="astronaut" width="395" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" >
 <p align="left">I have a background in Physics and astrophysics :milky_way: and I love being creative.
 I've always been a person that if I didn't know how to make something :mag_right: I'd find out how to do it, so programming has been a perfect fit for me. I love movies :movie_camera:, books :books: and I'm a huge fan of sports :soccer:. I love the psychology of athletes and the culture of athletics :muscle:
 </p>
